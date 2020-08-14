@@ -16,3 +16,9 @@ Back-end - Firebase / Node.js + Express.js
 0% done.
 
 To be continued or update as the project move along.
+
+
+Operate the app
+
+-Download npm libraries and dependency with: npm install
+-Start the app: expo start
